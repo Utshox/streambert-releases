@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "",
-  "changelog": "Initial release."
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.1/utshow-v1.1.apk",
+  "changelog": "• Added v1.1 version badge next to UTSHOW header\n• First over-the-air update test\n• Bug fixes and polish"
 }
