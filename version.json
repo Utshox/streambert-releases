@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.2/utshow-v1.2.apk",
-  "changelog": "• Live TV: world IPTV index now filtered to Bangladesh-only\n• Static TV hero (slider judder fixed)\n• Stronger focus border on selected items\n• MEDIA_PLAY_PAUSE remote key wired to embed video\n• Up Next modal is now D-pad navigable\n• Fullscreen no longer stretches video\n• Version info moved to Settings > About"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.3/utshow-v1.3.apk",
+  "changelog": "• Live TV split into Bangladesh + Movies tabs (no more mixing)\n• Curated BD channel list (BTV, Channel i, Somoy, etc.)\n• Movie tab with Sony Max, Star Gold, Zee Cinema, etc.\n• Channel switch overlay shows prev / current / next\n• OTA update dialog focus trap (DPAD no longer escapes)"
 }
