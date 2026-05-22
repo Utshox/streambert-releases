@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.3/utshow-v1.3.apk",
-  "changelog": "• Live TV split into Bangladesh + Movies tabs (no more mixing)\n• Curated BD channel list (BTV, Channel i, Somoy, etc.)\n• Movie tab with Sony Max, Star Gold, Zee Cinema, etc.\n• Channel switch overlay shows prev / current / next\n• OTA update dialog focus trap (DPAD no longer escapes)"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.4/utshow-v1.4.apk",
+  "changelog": "• Curated built-in channel list (no more empty BD tab)\n• Fixed country parser (.bd@SD suffix was breaking BD detection)\n• Channels load instantly — no network fetch on app open\n• Custom M3U URL in Settings still overrides if you want to swap source"
 }
