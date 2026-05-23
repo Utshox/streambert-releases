@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.5/utshow-v1.5.apk",
-  "changelog": "• Paid IPTV (Xtream Codes) support — paste your provider's M3U URL in Settings\n• Custom sources show all channels with provider's own group chips\n• MPEG-TS playback for /play/ /live/ Xtream-style URLs\n• Category tabs auto-hide when on a custom source"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.6/utshow-v1.6.apk",
+  "changelog": "• Fixed TV crash when opening a Live TV channel (Intent payload was over the binder limit)\n• NVisionBD trial M3U seeded on first launch (debug build)\n• Settings: real \"Check for updates\" button replaces the dummy simulator\n• Downloaded APK is cleared from cache on every app launch"
 }
