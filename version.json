@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.4/utshow-v1.4.apk",
-  "changelog": "• Curated built-in channel list (no more empty BD tab)\n• Fixed country parser (.bd@SD suffix was breaking BD detection)\n• Channels load instantly — no network fetch on app open\n• Custom M3U URL in Settings still overrides if you want to swap source"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.5/utshow-v1.5.apk",
+  "changelog": "• Paid IPTV (Xtream Codes) support — paste your provider's M3U URL in Settings\n• Custom sources show all channels with provider's own group chips\n• MPEG-TS playback for /play/ /live/ Xtream-style URLs\n• Category tabs auto-hide when on a custom source"
 }
