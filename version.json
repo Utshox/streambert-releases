@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.9/utshow-v1.9.apk",
-  "changelog": "• Auto-play on-demand video on open (no more pressing down for the play button)\n• Auto-fullscreen on TV when a movie starts\n• VOD seek on TV remote: DPAD left/right ±10s, FF/REW ±30s, play/pause works\n• ⭐ Favorites tab on Live TV — star any channel, find it instantly at the top\n• Uniform width for the top tab pills (On-Demand / Live TV / Settings)"
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.10/utshow-v1.10.apk",
+  "changelog": "• Fixed: switching channels while one was still loading no longer locks the player on the spinner\n• Back button now asks for confirmation before exiting (closes Details / returns to Home first)"
 }
