@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.10/utshow-v1.10.apk",
-  "changelog": "• Fixed: switching channels while one was still loading no longer locks the player on the spinner\n• Back button now asks for confirmation before exiting (closes Details / returns to Home first)"
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.11/utshow-v1.11.apk",
+  "changelog": "• Faster channel switching — reduced ExoPlayer start-up buffer (2.5s → 0.5s)\n• OkHttp-backed data source pools TCP+TLS connections across channels on the same host"
 }
