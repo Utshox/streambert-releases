@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.7/utshow-v1.7.apk",
-  "changelog": "• IPTV-friendly User-Agent (paid servers were rejecting our Chrome UA as a bot)\n• Auto-retry chain across 4 known-good IPTV UAs on playback error\n• Better error message when all UAs fail"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.8/utshow-v1.8.apk",
+  "changelog": "• Proper IPTV-app layout: TV / Movies / Sports / News / Kids / Music / Series / Radio / Docs / Religious sections\n• TV: 2-pane (sidebar of sub-groups + channel rows with logo + name)\n• Mobile: vertical channel rows with logos\n• Auto-select first non-empty section on source load\n• Friendlier offline-channel message"
 }
