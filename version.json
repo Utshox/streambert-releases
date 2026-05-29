@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.12/utshow-v1.12.apk",
-  "changelog": "• On-demand player: TV remote (D-pad) now controls the embedded player — server, quality, subtitles, speed & close, with a white highlight cursor\n• Fixed VidSrc source (dead vidsrc.to → vidsrc.xyz)\n• Live TV on Fire TV: 12s buffering watchdog ends the infinite-spinner stall"
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.13/utshow-v1.13.apk",
+  "changelog": "• Fire TV Live TV fix: slow-starting streams are no longer restarted mid-load; added decoder fallback\n• Live TV is now live-only — full-length movies/series are filtered out of the channel list\n• On-demand: fixed fullscreen/play buttons (were toggling on+off); BACK now closes the embed's settings menu first; VidSrc → vidsrc.domains"
 }
