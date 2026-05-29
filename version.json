@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.14/utshow-v1.14.apk",
-  "changelog": "• New VOD tab in Live TV — the IPTV provider's full-length movies/series now have their own tab instead of being hidden\n• On-demand player: Source / Episodes buttons now hide when you go fullscreen"
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.15/utshow-v1.15.apk",
+  "changelog": "• Fixed VidSrc (was pointing at a dead domain) — now uses working mirrors with a VidSrc 2 fallback in the source menu\n• On-demand player: Source / Episodes buttons auto-hide so they no longer sit over the video"
 }
