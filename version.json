@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.11/utshow-v1.11.apk",
-  "changelog": "• Faster channel switching — reduced ExoPlayer start-up buffer (2.5s → 0.5s)\n• OkHttp-backed data source pools TCP+TLS connections across channels on the same host"
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.12/utshow-v1.12.apk",
+  "changelog": "• On-demand player: TV remote (D-pad) now controls the embedded player — server, quality, subtitles, speed & close, with a white highlight cursor\n• Fixed VidSrc source (dead vidsrc.to → vidsrc.xyz)\n• Live TV on Fire TV: 12s buffering watchdog ends the infinite-spinner stall"
 }
