@@ -1,6 +1,6 @@
 {
-    "versionCode": 24,
-    "versionName": "1.23",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.23/utshow-v1.23.apk",
-    "changelog": "• Fixed Live TV showing every channel as offline — the IPTV provider rotates its stream links, and the app now auto-refreshes to get working ones instead of using stale cached links"
+    "versionCode": 25,
+    "versionName": "1.24",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.24/utshow-v1.24.apk",
+    "changelog": "• On-demand: the remote's center/OK button now reaches the play button on VidSrc (it sits inside an embedded player)\n• English subtitles now default on for VidSrc sources, not just Videasy"
 }
