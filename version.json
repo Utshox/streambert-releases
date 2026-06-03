@@ -1,6 +1,6 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.17",
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.17/utshow-v1.17.apk",
-    "changelog":  "• VidSrc fixed — now resolves the IMDb id the embeds need (vsembed.su/.ru, vidsrc.to/.in); blank player gone\\n• Live TV on phones: swipe up for next channel, swipe down for previous\\n• (Firestick remote up/down is unchanged)"
+    "versionCode":  19,
+    "versionName":  "1.18",
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.18/utshow-v1.18.apk",
+    "changelog":  "• On-demand playback fix: sources now fall back properly instead of showing \u0027all sources failed\u0027\\n• Unblocked vsembed and simplified the source menu (VidSrc + VidSrc mirror)\\n• Phone Live TV: swipe up/down to change channels"
 }
