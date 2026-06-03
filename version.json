@@ -1,6 +1,6 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.19",
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.19/utshow-v1.19.apk",
-    "changelog":  "• Fixes \u0027the media is unavailable\u0027 on the on-demand player (we were stripping the player\u0027s own overlay)\\n• Source menu: VidSrc + VidSrc mirror"
+    "versionCode":  21,
+    "versionName":  "1.20",
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.20/utshow-v1.20.apk",
+    "changelog":  "• On-demand: more sources (2Embed, MultiEmbed) so a working player is found more often\n• Phone VOD now has a seek bar\n• Includes the v1.19 fix for \u0027media unavailable\u0027"
 }
