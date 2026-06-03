@@ -1,6 +1,6 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.16",
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.16/utshow-v1.16.apk",
-    "changelog":  "• VidSrc now uses vsembed.su (the previous mirror went dead) — blank player fixed\\n• Live TV: bigger buffer so jittery channels (e.g. Ind Kolkata) play smoothly instead of micro-stalling\\n• On-demand player: pressing DOWN no longer scrolls the video off-screen / goes blank\\n• TV search: added a Clear button so you can wipe the box without reopening the keyboard"
+    "versionCode":  18,
+    "versionName":  "1.17",
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.17/utshow-v1.17.apk",
+    "changelog":  "• VidSrc fixed — now resolves the IMDb id the embeds need (vsembed.su/.ru, vidsrc.to/.in); blank player gone\\n• Live TV on phones: swipe up for next channel, swipe down for previous\\n• (Firestick remote up/down is unchanged)"
 }
