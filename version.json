@@ -1,6 +1,6 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.18",
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.18/utshow-v1.18.apk",
-    "changelog":  "• On-demand playback fix: sources now fall back properly instead of showing \u0027all sources failed\u0027\\n• Unblocked vsembed and simplified the source menu (VidSrc + VidSrc mirror)\\n• Phone Live TV: swipe up/down to change channels"
+    "versionCode":  20,
+    "versionName":  "1.19",
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.19/utshow-v1.19.apk",
+    "changelog":  "• Fixes \u0027the media is unavailable\u0027 on the on-demand player (we were stripping the player\u0027s own overlay)\\n• Source menu: VidSrc + VidSrc mirror"
 }
