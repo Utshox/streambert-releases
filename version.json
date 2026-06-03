@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.15/utshow-v1.15.apk",
-  "changelog": "• Fixed VidSrc (was pointing at a dead domain) — now uses working mirrors with a VidSrc 2 fallback in the source menu\n• On-demand player: Source / Episodes buttons auto-hide so they no longer sit over the video"
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.16/utshow-v1.16.apk",
+  "changelog": "â€¢ VidSrc now uses vsembed.su (the previous mirror went dead) â€” blank player fixed\nâ€¢ Live TV: bigger buffer so jittery channels (e.g. Ind Kolkata) play smoothly instead of micro-stalling\nâ€¢ On-demand player: pressing DOWN no longer scrolls the video off-screen / goes blank\nâ€¢ TV search: added a Clear button so you can wipe the box without reopening the keyboard"
 }
