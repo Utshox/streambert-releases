@@ -1,6 +1,6 @@
 {
-    "versionCode": 22,
-    "versionName": "1.21",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.21/utshow-v1.21.apk",
-    "changelog": "• Fixed: BACK button on TV could get stuck on a laggy page — now always exits\n• Removed two on-demand sources from the last update that never worked and slowed the Firestick down"
+    "versionCode": 23,
+    "versionName": "1.22",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.22/utshow-v1.22.apk",
+    "changelog": "• Live TV: fixed channels failing with offline even though they play elsewhere — relaxed the network timeouts that were too strict on the device\n• Live TV now shows the real error if a channel still fails, so problems are easier to diagnose"
 }
