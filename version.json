@@ -1,6 +1,6 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.20",
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.20/utshow-v1.20.apk",
-    "changelog":  "• On-demand: more sources (2Embed, MultiEmbed) so a working player is found more often\n• Phone VOD now has a seek bar\n• Includes the v1.19 fix for \u0027media unavailable\u0027"
+    "versionCode": 22,
+    "versionName": "1.21",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.21/utshow-v1.21.apk",
+    "changelog": "• Fixed: BACK button on TV could get stuck on a laggy page — now always exits\n• Removed two on-demand sources from the last update that never worked and slowed the Firestick down"
 }
