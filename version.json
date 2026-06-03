@@ -1,6 +1,6 @@
 {
-    "versionCode": 23,
-    "versionName": "1.22",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.22/utshow-v1.22.apk",
-    "changelog": "• Live TV: fixed channels failing with offline even though they play elsewhere — relaxed the network timeouts that were too strict on the device\n• Live TV now shows the real error if a channel still fails, so problems are easier to diagnose"
+    "versionCode": 24,
+    "versionName": "1.23",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.23/utshow-v1.23.apk",
+    "changelog": "• Fixed Live TV showing every channel as offline — the IPTV provider rotates its stream links, and the app now auto-refreshes to get working ones instead of using stale cached links"
 }
