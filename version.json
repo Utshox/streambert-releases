@@ -1,6 +1,6 @@
 {
-    "versionCode": 27,
-    "versionName": "1.26",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.26/utshow-v1.26.apk",
-    "changelog": "• Live TV: fixed the buffer-play-buffer stutter on high-bitrate channels (like the FIFA channels) by building a larger safety cushion before resuming. No quality change."
+    "versionCode": 28,
+    "versionName": "1.27",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.27/utshow-v1.27.apk",
+    "changelog": "• Live TV: fixes the v1.26 buffering loop on ALL channels — the stall detector was restarting streams that were refilling normally. Now it only restarts when no data is arriving at all."
 }
