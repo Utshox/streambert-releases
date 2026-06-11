@@ -1,6 +1,6 @@
 {
-    "versionCode": 30,
-    "versionName": "1.29",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.29/utshow-v1.29.apk",
-    "changelog": "• Live TV: fixes 'manifest malformed' on every channel — the recovery code was switching channels to the wrong decoder after a network hiccup and getting stuck. Removed that path; channels load normally again."
+    "versionCode": 31,
+    "versionName": "1.30",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.30/utshow-v1.30.apk",
+    "changelog": "• Live TV: fixes 'container not supported' on every channel. The provider now redirects each channel to a second (changing) server before the video starts; the app now follows that redirect reliably."
 }
