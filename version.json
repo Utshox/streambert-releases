@@ -1,6 +1,6 @@
 {
-    "versionCode": 28,
-    "versionName": "1.27",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.27/utshow-v1.27.apk",
-    "changelog": "• Live TV: fixes the v1.26 buffering loop on ALL channels — the stall detector was restarting streams that were refilling normally. Now it only restarts when no data is arriving at all."
+    "versionCode": 29,
+    "versionName": "1.28",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.28/utshow-v1.28.apk",
+    "changelog": "• Live TV: fixes the constant buffering introduced in v1.26/1.27. The app no longer waits to build a buffer these live streams can't fill; it resumes promptly like VLC. Tip: higher-numbered FIFA feeds are heavier — try a lower-numbered one (#1-#3) for the same match if buffering persists."
 }
