@@ -1,6 +1,6 @@
 {
-    "versionCode": 25,
-    "versionName": "1.24",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.24/utshow-v1.24.apk",
-    "changelog": "• On-demand: the remote's center/OK button now reaches the play button on VidSrc (it sits inside an embedded player)\n• English subtitles now default on for VidSrc sources, not just Videasy"
+    "versionCode": 26,
+    "versionName": "1.25",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.25/utshow-v1.25.apk",
+    "changelog": "• Live TV: frozen streams now re-tune automatically; 'container unsupported' channels fixed; three-dot button refreshes the channel\n• On-demand: selection highlight is now always visible; new sources VidFast, VidLink, Vidking\n• Phone fullscreen: swipe right side for volume, left side for brightness"
 }
