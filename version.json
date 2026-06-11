@@ -1,6 +1,6 @@
 {
-    "versionCode": 31,
-    "versionName": "1.30",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.30/utshow-v1.30.apk",
-    "changelog": "• Live TV: fixes 'container not supported' on every channel. The provider now redirects each channel to a second (changing) server before the video starts; the app now follows that redirect reliably."
+    "versionCode": 32,
+    "versionName": "1.31",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.31/utshow-v1.31.apk",
+    "changelog": "• Live TV restored to the version that was playing (with minor buffering). Recent buffering tweaks had broken playback, so Live TV is rolled back to the known-good build. On-demand improvements (new sources, phone volume/brightness swipes, visible selection highlight) are kept."
 }
