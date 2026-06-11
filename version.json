@@ -1,6 +1,6 @@
 {
-    "versionCode": 26,
-    "versionName": "1.25",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.25/utshow-v1.25.apk",
-    "changelog": "• Live TV: frozen streams now re-tune automatically; 'container unsupported' channels fixed; three-dot button refreshes the channel\n• On-demand: selection highlight is now always visible; new sources VidFast, VidLink, Vidking\n• Phone fullscreen: swipe right side for volume, left side for brightness"
+    "versionCode": 27,
+    "versionName": "1.26",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.26/utshow-v1.26.apk",
+    "changelog": "• Live TV: fixed the buffer-play-buffer stutter on high-bitrate channels (like the FIFA channels) by building a larger safety cushion before resuming. No quality change."
 }
