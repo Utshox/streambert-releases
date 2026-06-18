@@ -1,6 +1,6 @@
 {
-    "versionCode": 32,
-    "versionName": "1.31",
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.31/utshow-v1.31.apk",
-    "changelog": "• Live TV restored to the version that was playing (with minor buffering). Recent buffering tweaks had broken playback, so Live TV is rolled back to the known-good build. On-demand improvements (new sources, phone volume/brightness swipes, visible selection highlight) are kept."
+  "versionCode": 33,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.32/utshow-v1.32.apk",
+  "changelog": "TV embed player: the D-pad highlight box now auto-hides after ~1.5s of no input so it no longer sits on top of the video (including fullscreen). Next D-pad press wakes it in place."
 }
