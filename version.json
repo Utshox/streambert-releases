@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.32/utshow-v1.32.apk",
-  "changelog": "TV embed player: the D-pad highlight box now auto-hides after ~1.5s of no input so it no longer sits on top of the video (including fullscreen). Next D-pad press wakes it in place."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.33/utshow-v1.33.apk",
+  "changelog": "Phone embed player: the volume/brightness swipe now only responds on the left/right screen edges, leaving the middle free so you can scroll the player's subtitle/server menus without changing volume or brightness."
 }
