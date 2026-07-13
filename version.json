@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.33/utshow-v1.33.apk",
-  "changelog": "Phone embed player: the volume/brightness swipe now only responds on the left/right screen edges, leaving the middle free so you can scroll the player's subtitle/server menus without changing volume or brightness."
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.34/utshow-v1.34.apk",
+  "changelog": "Live TV buffering fix + TV fixes: Continue Watching episode browsing, visible search selector, D-pad seek on VidSrc, clickable next-episode popup"
 }
