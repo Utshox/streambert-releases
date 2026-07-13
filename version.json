@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.38/utshow-v1.38.apk",
-  "changelog": "Recent-searches selection highlight; Live TV standing buffer cushion (~30s behind live); VidSrc arrow-key seek"
+  "versionCode": 40,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.39/utshow-v1.39.apk",
+  "changelog": "Live TV: full segment-window buffer cushion (~1 min behind live on heavy channels) for maximum smoothness"
 }
