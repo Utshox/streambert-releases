@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.37/utshow-v1.37.apk",
-  "changelog": "Live TV moved to HLS streams for real buffering; solid search selection highlight; VidSrc double-tap seek fix"
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.38/utshow-v1.38.apk",
+  "changelog": "Recent-searches selection highlight; Live TV standing buffer cushion (~30s behind live); VidSrc arrow-key seek"
 }
