@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.40/utshow-v1.40.apk",
-  "changelog": "VidSrc default player + working pause; Live TV buffering self-heal fix"
+  "versionCode": 42,
+  "versionName": "1.41",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.41/utshow-v1.41.apk",
+  "changelog": "Seek/pause on VidSrc respond immediately - no priming OK press needed"
 }
