@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.41/utshow-v1.41.apk",
-  "changelog": "Seek/pause on VidSrc respond immediately - no priming OK press needed"
+  "versionCode": 43,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.42/utshow-v1.42.apk",
+  "changelog": "Pause on VidSrc fixed; Live TV delay reduced to ~20s behind live"
 }
