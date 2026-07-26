@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.43/utshow-v1.43.apk",
-  "changelog": "Live TV: fixes buffer/play/buffer stutter on Kolkata, Indian, sports and music channels (live delay now scales per channel)"
+  "versionCode": 45,
+  "versionName": "1.44",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.44/utshow-v1.44.apk",
+  "changelog": "Live TV: delay behind live is now measured per channel - more cushion on Star Gold/Star Plus, proper margin on Star Jalsha/Zee Bangla/sports"
 }
