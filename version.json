@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.44/utshow-v1.44.apk",
-  "changelog": "Live TV: delay behind live is now measured per channel - more cushion on Star Gold/Star Plus, proper margin on Star Jalsha/Zee Bangla/sports"
+  "versionCode": 46,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.45/utshow-v1.45.apk",
+  "changelog": "On-demand: new cursor mode lets the remote reach the subtitle/CC and settings menus inside the VidSrc player. Open MENU, pick the Cursor chip, move with the D-pad, press OK to tap, BACK to exit."
 }
