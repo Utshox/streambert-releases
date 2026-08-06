@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.51/utshow-v1.51.apk",
-  "changelog": "• The hero trailer finally plays. It no longer embeds YouTube at all — the trailer stream is resolved and played through the same ExoPlayer that runs Live TV, at 720p\n• The speaker toggle now genuinely unmutes the trailer\n• If a trailer can't be resolved, the hero falls back to the still image"
+  "versionCode": 53,
+  "versionName": "1.52",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.52/utshow-v1.52.apk",
+  "changelog": "• Fixed hero trailers not playing on the Firestick — the app was picking a 160kbps Opus audio track that Fire TV cannot reliably decode. It now prefers H.264 video and AAC audio, which the Firestick decodes in hardware\n• If a stream still will not decode, the trailer retries on a single maximum-compatibility stream before giving up\n• Phone hero buttons no longer squash into unreadable stubs — Play and Trailer keep their labels, the rest are icons"
 }
