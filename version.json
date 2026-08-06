@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.46",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.46/utshow-v1.46.apk",
-  "changelog": "• On-Demand hero is now a discovery picker — a random film from the BBC 100 Greatest Films of the 21st Century, with its trailer playing muted behind the copy\n• Hero shows IMDb, Rotten Tomatoes and Metacritic scores, plus Watched it / Watchlist / Next suggestion\n• New My List tab: watch-later and already-watched shelves\n• Every poster card now carries IMDb and Rotten Tomatoes scores\n• Player: double-tap the left or right third to seek ±10s\n• Player: after ~4.5s idle the chrome hides and the embed returns to fullscreen"
+  "versionCode": 48,
+  "versionName": "1.47",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.47/utshow-v1.47.apk",
+  "changelog": "• Fixed: hero trailer showed \"Video unavailable (152)\" on every title — the embed was loading under an origin YouTube rejects\n• Hero now tries every trailer TMDB lists, and falls back to the still image if none allow embedding\n• Fixed: in the VidSrc player, seek and play/pause did nothing after it went fullscreen until you pressed BACK\n• Cards with no Rotten Tomatoes score now show Metacritic instead of IMDb alone"
 }
