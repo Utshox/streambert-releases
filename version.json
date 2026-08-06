@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.45/utshow-v1.45.apk",
-  "changelog": "On-demand: new cursor mode lets the remote reach the subtitle/CC and settings menus inside the VidSrc player. Open MENU, pick the Cursor chip, move with the D-pad, press OK to tap, BACK to exit."
+  "versionCode": 47,
+  "versionName": "1.46",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.46/utshow-v1.46.apk",
+  "changelog": "• On-Demand hero is now a discovery picker — a random film from the BBC 100 Greatest Films of the 21st Century, with its trailer playing muted behind the copy\n• Hero shows IMDb, Rotten Tomatoes and Metacritic scores, plus Watched it / Watchlist / Next suggestion\n• New My List tab: watch-later and already-watched shelves\n• Every poster card now carries IMDb and Rotten Tomatoes scores\n• Player: double-tap the left or right third to seek ±10s\n• Player: after ~4.5s idle the chrome hides and the embed returns to fullscreen"
 }
