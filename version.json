@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.49",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.49/utshow-v1.49.apk",
-  "changelog": "• New Trailer button on the hero — opens the trailer in the YouTube app, which works regardless of the embedded player\n• Trailers are now picked via the YouTube Data API: better sources for older films, and unplayable ones are filtered out before they are tried\n• WebView now accepts cookies, which the embedded player needs during setup"
+  "versionCode": 51,
+  "versionName": "1.50",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.50/utshow-v1.50.apk",
+  "changelog": "• Fixed the Trailer button on TV — SmartTube rejected the link because it was sent as vnd.youtube:ID instead of vnd.youtube://ID, which it reads as an empty video id"
 }
