@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.48",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.48/utshow-v1.48.apk",
-  "changelog": "• Hero trailer actually plays now — YouTube was refusing the embed because a WebView sends no HTTP Referer header; the trailer is now loaded as its own page with that header supplied\n• Trailer letterboxing cropped out, and the speaker toggle no longer restarts playback\n• Embed-restricted trailers fall through to the next one, then to the still image"
+  "versionCode": 50,
+  "versionName": "1.49",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.49/utshow-v1.49.apk",
+  "changelog": "• New Trailer button on the hero — opens the trailer in the YouTube app, which works regardless of the embedded player\n• Trailers are now picked via the YouTube Data API: better sources for older films, and unplayable ones are filtered out before they are tried\n• WebView now accepts cookies, which the embedded player needs during setup"
 }
