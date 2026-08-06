@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.52/utshow-v1.52.apk",
-  "changelog": "• Fixed hero trailers not playing on the Firestick — the app was picking a 160kbps Opus audio track that Fire TV cannot reliably decode. It now prefers H.264 video and AAC audio, which the Firestick decodes in hardware\n• If a stream still will not decode, the trailer retries on a single maximum-compatibility stream before giving up\n• Phone hero buttons no longer squash into unreadable stubs — Play and Trailer keep their labels, the rest are icons"
+  "versionCode": 54,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.53/utshow-v1.53.apk",
+  "changelog": "• Trailer surface switched from SurfaceView to TextureView — the likely reason the trailer rendered on the phone but not the Firestick\n• When a trailer fails, the hero now shows the actual reason in small text so it can be diagnosed instead of guessed at\n• Fixed the hero being cut off when scrolling back up on TV — it now snaps fully into view instead of only revealing the focused button"
 }
