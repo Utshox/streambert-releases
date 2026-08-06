@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.50",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.50/utshow-v1.50.apk",
-  "changelog": "• Fixed the Trailer button on TV — SmartTube rejected the link because it was sent as vnd.youtube:ID instead of vnd.youtube://ID, which it reads as an empty video id"
+  "versionCode": 52,
+  "versionName": "1.51",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.51/utshow-v1.51.apk",
+  "changelog": "• The hero trailer finally plays. It no longer embeds YouTube at all — the trailer stream is resolved and played through the same ExoPlayer that runs Live TV, at 720p\n• The speaker toggle now genuinely unmutes the trailer\n• If a trailer can't be resolved, the hero falls back to the still image"
 }
