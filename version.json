@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.47",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.47/utshow-v1.47.apk",
-  "changelog": "• Fixed: hero trailer showed \"Video unavailable (152)\" on every title — the embed was loading under an origin YouTube rejects\n• Hero now tries every trailer TMDB lists, and falls back to the still image if none allow embedding\n• Fixed: in the VidSrc player, seek and play/pause did nothing after it went fullscreen until you pressed BACK\n• Cards with no Rotten Tomatoes score now show Metacritic instead of IMDb alone"
+  "versionCode": 49,
+  "versionName": "1.48",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.48/utshow-v1.48.apk",
+  "changelog": "• Hero trailer actually plays now — YouTube was refusing the embed because a WebView sends no HTTP Referer header; the trailer is now loaded as its own page with that header supplied\n• Trailer letterboxing cropped out, and the speaker toggle no longer restarts playback\n• Embed-restricted trailers fall through to the next one, then to the still image"
 }
