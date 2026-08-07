@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.58",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.58/utshow-v1.58.apk",
-  "changelog": "Phone hero: the four icon buttons are bigger and clearly visible on bright backdrops."
+  "versionCode": 60,
+  "versionName": "1.59",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.59/utshow-v1.59.apk",
+  "changelog": "Live TV: the buffering spinner now shows the real download speed and remaining cushion, so a stalling channel can be diagnosed on-screen. Plus: bigger phone hero icon buttons."
 }
