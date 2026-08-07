@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.57/utshow-v1.57.apk",
-  "changelog": "Hero now shows the film's genres. Also in this update: Live TV channels that stall mid-play automatically re-seat at the back of their live window (like desktop VLC) for maximum cushion."
+  "versionCode": 59,
+  "versionName": "1.58",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.58/utshow-v1.58.apk",
+  "changelog": "Phone hero: the four icon buttons are bigger and clearly visible on bright backdrops."
 }
