@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.56/utshow-v1.56.apk",
-  "changelog": "Live TV: a channel that stalls mid-play now automatically re-seats at the back of its live window (like desktop VLC) for maximum cushion. Smooth channels keep their low delay."
+  "versionCode": 58,
+  "versionName": "1.57",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.57/utshow-v1.57.apk",
+  "changelog": "Hero now shows the film's genres. Also in this update: Live TV channels that stall mid-play automatically re-seat at the back of their live window (like desktop VLC) for maximum cushion."
 }
