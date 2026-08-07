@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.54/utshow-v1.54.apk",
-  "changelog": "• The trailer diagnostic now shows the real exception from the extractor instead of a generic message\n• Hero scroll on TV should be reliable now — the previous fix was racing the D-pad focus system, which is why it only worked sometimes"
+  "versionCode": 56,
+  "versionName": "1.55",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.55/utshow-v1.55.apk",
+  "changelog": "Removed the auto-playing trailer behind the home hero - the Trailer button stays. Smaller app, less bandwidth on the home screen."
 }
