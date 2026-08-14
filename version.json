@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.61",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.61/utshow-v1.61.apk",
-  "changelog": "Live TV: a new All tab shows every channel your provider carries in one list — 203 on the current source — instead of only the channels in one section. The sub-group chip is now labelled 'All groups' so the two can't be confused."
+  "versionCode": 63,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.62/utshow-v1.62.apk",
+  "changelog": "Fixes the Videasy player keeping its controls on screen after a seek or play/pause (introduced in v1.60). Live TV now opens on the All list, and the TV section is renamed General since it only holds the channels no other section claims."
 }
