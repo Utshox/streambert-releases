@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.60",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.60/utshow-v1.60.apk",
-  "changelog": "On-demand player: the control bar no longer stays stuck on screen after you pause and play again. Live TV: the channel OSD now shows what's airing right now, where the provider supplies EPG data."
+  "versionCode": 62,
+  "versionName": "1.61",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.61/utshow-v1.61.apk",
+  "changelog": "Live TV: a new All tab shows every channel your provider carries in one list — 203 on the current source — instead of only the channels in one section. The sub-group chip is now labelled 'All groups' so the two can't be confused."
 }
