@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.59",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.59/utshow-v1.59.apk",
-  "changelog": "Live TV: the buffering spinner now shows the real download speed and remaining cushion, so a stalling channel can be diagnosed on-screen. Plus: bigger phone hero icon buttons."
+  "versionCode": 61,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.60/utshow-v1.60.apk",
+  "changelog": "On-demand player: the control bar no longer stays stuck on screen after you pause and play again. Live TV: the channel OSD now shows what's airing right now, where the provider supplies EPG data."
 }
