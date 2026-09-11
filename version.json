@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.63",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.63/utshow-v1.63.apk",
-  "changelog": "New Skip Intro button on episodes (appears in the first couple of minutes, jumps past the intro). The Up Next card now shows every time you exit an episode and auto-plays only when you are near the end. Hero buttons on phones are larger and labeled. New Because-you-watched row on Home."
+  "versionCode": 65,
+  "versionName": "1.64",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.64/utshow-v1.64.apk",
+  "changelog": "Skip Intro now works on movies as well as episodes, starts counting from actual playback, and stays visible in fullscreen. Phone home hero shows all action buttons again. Next suggestion now skips anything already in your list."
 }
