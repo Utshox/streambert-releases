@@ -1,0 +1,6 @@
+{
+  "versionCode": 64,
+  "versionName": "1.63",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.63/utshow-v1.63.apk",
+  "changelog": "New Skip Intro button on episodes (appears in the first couple of minutes, jumps past the intro). The Up Next card now shows every time you exit an episode and auto-plays only when you are near the end. Hero buttons on phones are larger and labeled. New Because-you-watched row on Home."
+}
