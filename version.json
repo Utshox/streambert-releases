@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "1.64",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.64/utshow-v1.64.apk",
-  "changelog": "Skip Intro now works on movies as well as episodes, starts counting from actual playback, and stays visible in fullscreen. Phone home hero shows all action buttons again. Next suggestion now skips anything already in your list."
+  "versionCode": 66,
+  "versionName": "1.65",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.65/utshow-v1.65.apk",
+  "changelog": "Skip Intro now uses real intro timestamps from TheIntroDB, so the button appears only where an intro actually is and jumps to the exact end. Titles without data fall back to a timed Skip 90s. The button can now be pressed with the Firestick remote. Videasy is gone: VidFast and VidLink replace it alongside VidSrc."
 }
