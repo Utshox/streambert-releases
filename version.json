@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "1.67",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.67/utshow-v1.67.apk",
-  "changelog": "Skip Intro is now series-only: removed from movies, where a blind jump cannot know where the title card ends. On series, the button appears during the intro and jumps to its exact end when timestamp data exists."
+  "versionCode": 69,
+  "versionName": "1.68",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.68/utshow-v1.68.apk",
+  "changelog": "VidSrc is the default source again (VidFast/VidLink stay as fallback). Skip Intro's marker-less \"Skip 90s\" guess no longer retires after one press — it re-arms after a few seconds so a second press can close the gap if the first undershot a longer intro."
 }
