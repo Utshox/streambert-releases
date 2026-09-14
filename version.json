@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.66",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.66/utshow-v1.66.apk",
-  "changelog": "Fixes the Firestick bug where the Skip Intro button could not be pressed with the remote. VidFast is now the default player, which makes Skip Intro land exactly on the intro's end; VidSrc and its mirror remain one press of the Source pill away. Playback also starts faster."
+  "versionCode": 68,
+  "versionName": "1.67",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.67/utshow-v1.67.apk",
+  "changelog": "Skip Intro is now series-only: removed from movies, where a blind jump cannot know where the title card ends. On series, the button appears during the intro and jumps to its exact end when timestamp data exists."
 }
