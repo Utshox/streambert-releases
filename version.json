@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "1.68",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.68/utshow-v1.68.apk",
-  "changelog": "VidSrc is the default source again (VidFast/VidLink stay as fallback). Skip Intro's marker-less \"Skip 90s\" guess no longer retires after one press — it re-arms after a few seconds so a second press can close the gap if the first undershot a longer intro."
+  "versionCode": 70,
+  "versionName": "1.69",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.69/utshow-v1.69.apk",
+  "changelog": "Skip Intro is gone — it guessed more often than it skipped. The next-episode card now only shows in the last 30 seconds, never when you press BACK mid-episode. It sits in the bottom-right corner instead of covering the screen, counts down 5 seconds as a shadow filling the Play button, and Cancel keeps you in the episode you were watching."
 }
