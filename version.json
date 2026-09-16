@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "1.71",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.71/utshow-v1.71.apk",
-  "changelog": "Two new sources: VidSrc.su and SmashyStream — picked by actually loading every known embed and keeping the ones that returned a real stream. Both play in the page itself instead of a sealed frame, so seeking is a real seek rather than a burst of arrow presses and the next-episode card knows exactly when an episode ends. Both work from the TMDB id alone, so they keep playing when the IMDb lookup fails. Dead providers removed from the fallback chain, so playback no longer stalls on hosts that are gone."
+  "versionCode": 73,
+  "versionName": "1.72",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.72/utshow-v1.72.apk",
+  "changelog": "SmashyStream is gone — it never showed a picture on the Firestick, only a black screen. The source list is down to three: VidSrc, VidLink, then PrimeWire. PrimeWire is new and sits last; it does not start on its own, so pick its Filemoon server from the Source button and it plays. The VidSrc mirror was dropped too — it ran on the same servers as VidSrc, so when one was down both were."
 }
