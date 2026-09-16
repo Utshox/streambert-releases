@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "1.69",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.69/utshow-v1.69.apk",
-  "changelog": "Skip Intro is gone — it guessed more often than it skipped. The next-episode card now only shows in the last 30 seconds, never when you press BACK mid-episode. It sits in the bottom-right corner instead of covering the screen, counts down 5 seconds as a shadow filling the Play button, and Cancel keeps you in the episode you were watching."
+  "versionCode": 72,
+  "versionName": "1.71",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.71/utshow-v1.71.apk",
+  "changelog": "Two new sources: VidSrc.su and SmashyStream — picked by actually loading every known embed and keeping the ones that returned a real stream. Both play in the page itself instead of a sealed frame, so seeking is a real seek rather than a burst of arrow presses and the next-episode card knows exactly when an episode ends. Both work from the TMDB id alone, so they keep playing when the IMDb lookup fails. Dead providers removed from the fallback chain, so playback no longer stalls on hosts that are gone."
 }
