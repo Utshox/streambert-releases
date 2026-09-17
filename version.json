@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.75/utshow-v1.75.apk",
-    "changelog":  "Settings fixed for Fire TV: the screen scrolls again and the API key box is no longer a remote trap (Paste / Test and Save sit above the field, OK on the field opens the keyboard). The Because-you-watched row now drops titles the critics panned, Rotten Tomatoes or Metacritic under 40, not just titles TMDB scored low. The nexos key is kept out of Android cloud backups. New banner for the Fire TV launcher tile.",
-    "versionCode":  76,
-    "versionName":  "1.75"
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.76/utshow-v1.76.apk",
+    "changelog":  "Two recommendation rows now: Because-you-watched reacts to what you just watched (10 picks), and Based-on-your-watch-history reflects everything. A drama or any non-animation seed no longer serves cartoons. Titles the critics panned (Rotten Tomatoes or Metacritic under 40) are dropped from the recommendation rows.",
+    "versionCode":  77,
+    "versionName":  "1.76"
 }
