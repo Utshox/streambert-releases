@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "1.73",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.73/utshow-v1.73.apk",
-  "changelog": "Suggestions are better. The \"Because you watched\" row used to be built from whichever title you opened last — even one you switched off after a few minutes. It now weighs several things you have actually watched, pays attention to whether you finished them or gave up early, and stops steering the row toward things you abandoned. Episodes of the same show count once instead of crowding everything else out. IMDb and Rotten Tomatoes scores now feed into the ordering as well, and anything already saved or watched is kept out of the row."
+  "versionCode": 75,
+  "versionName": "1.74",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.74/utshow-v1.74.apk",
+  "changelog": "Suggestions can now explain themselves. Settings has a new SMART SUGGESTIONS box: paste a nexos.ai API key and the \"Because you watched\" row is ranked properly, with a short line under each poster saying why it is there. Test & Save checks the key against the service before storing it, so a bad paste tells you straight away instead of failing quietly. The key stays on the device and survives updates. It is optional — without one the row works exactly as it does now, just without the explanations."
 }
