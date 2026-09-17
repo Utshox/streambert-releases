@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "1.72",
-  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.72/utshow-v1.72.apk",
-  "changelog": "SmashyStream is gone — it never showed a picture on the Firestick, only a black screen. The source list is down to three: VidSrc, VidLink, then PrimeWire. PrimeWire is new and sits last; it does not start on its own, so pick its Filemoon server from the Source button and it plays. The VidSrc mirror was dropped too — it ran on the same servers as VidSrc, so when one was down both were."
+  "versionCode": 74,
+  "versionName": "1.73",
+  "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.73/utshow-v1.73.apk",
+  "changelog": "Suggestions are better. The \"Because you watched\" row used to be built from whichever title you opened last — even one you switched off after a few minutes. It now weighs several things you have actually watched, pays attention to whether you finished them or gave up early, and stops steering the row toward things you abandoned. Episodes of the same show count once instead of crowding everything else out. IMDb and Rotten Tomatoes scores now feed into the ordering as well, and anything already saved or watched is kept out of the row."
 }
