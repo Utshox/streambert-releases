@@ -1,4 +1,3 @@
 {
-  "_comment": "Runtime policy for UTSHOW builds. Rules are matched top-down and the FIRST match wins, so put exemptions above broad rules. Omitting minVersionCode/maxVersionCode makes a rule apply to every build. Modes: ok | notice | force_update | deprecated | feature_off. Anything unrecognised, and any failure to read this file, means 'no restrictions'. Changes take up to ~5 minutes to reach devices.",
   "rules": []
 }
