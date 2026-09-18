@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.76/utshow-v1.76.apk",
-    "changelog":  "Two recommendation rows now: Because-you-watched reacts to what you just watched (10 picks), and Based-on-your-watch-history reflects everything. A drama or any non-animation seed no longer serves cartoons. Titles the critics panned (Rotten Tomatoes or Metacritic under 40) are dropped from the recommendation rows.",
-    "versionCode":  77,
-    "versionName":  "1.76"
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.77/utshow-v1.77.apk",
+    "changelog":  "VidSrc moved to a new address (vidsrc.sh). The app now goes straight there instead of being bounced through a redirect every time you start something. Same source, same order, same picture - it just stops wasting a hop.",
+    "versionCode":  78,
+    "versionName":  "1.77"
 }
