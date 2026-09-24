@@ -1,6 +1,6 @@
-{
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.77/utshow-v1.77.apk",
-    "changelog":  "VidSrc moved to a new address (vidsrc.sh). The app now goes straight there instead of being bounced through a redirect every time you start something. Same source, same order, same picture - it just stops wasting a hop.",
-    "versionCode":  78,
-    "versionName":  "1.77"
+﻿{
+    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.78/streambert-v1.78.apk",
+    "changelog":  "v1.78: Netflix UX overhaul - Details screen redesign, D-pad navigation fixes, play-next bug fix, simplified home screen (4 rows), hero LazyRow, Up Next 10s + dim scrim, player info bar, search opens Details on TV, BACK from embed settings fixed.",
+    "versionCode":  79,
+    "versionName":  "1.78"
 }
