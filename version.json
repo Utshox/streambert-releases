@@ -1,7 +1,6 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.81/streambert-v1.81.apk",
-    "changelog": "v1.81 (phone): Details page gets a Cast row and Trailer button, search is now a field at the top, See more sits next to row titles, and Because you watched shows the full title.",
-    "versionCode": 82,
-    "versionName": "1.81",
-    "targets": ["phone"]
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.82/streambert-v1.82.apk",
+    "changelog": "v1.82: Pick a cast member on a Details page to see every movie and series they acted in, best known first. Also includes v1.81 (phone: cast + trailer on Details, search field, See more next to row titles).",
+    "versionCode": 83,
+    "versionName": "1.82"
 }
