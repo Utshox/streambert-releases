@@ -1,6 +1,6 @@
-﻿{
-    "apkUrl":  "https://github.com/Utshox/streambert-releases/releases/download/v1.78/streambert-v1.78.apk",
-    "changelog":  "v1.78: Netflix UX overhaul - Details screen redesign, D-pad navigation fixes, play-next bug fix, simplified home screen (4 rows), hero LazyRow, Up Next 10s + dim scrim, player info bar, search opens Details on TV, BACK from embed settings fixed.",
-    "versionCode":  79,
-    "versionName":  "1.78"
+{
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.79/streambert-v1.79.apk",
+    "changelog": "v1.79: Prime-style Details page (art, Play, Trailer, My List, Cast), much smoother on Fire TV, preview band on home, blue colour scheme, focus outline no longer overlaps cards, splash holds until home is ready, \"Based on your watch history\" removed, Continue Watching shows Remove (MENU key).",
+    "versionCode": 80,
+    "versionName": "1.79"
 }
