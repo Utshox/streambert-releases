@@ -1,6 +1,7 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.80/streambert-v1.80.apk",
-    "changelog": "v1.80: Removing a title from Continue Watching keeps focus in the row (next card, or the top when empty). Updates can now target TV or phone only. Includes everything from v1.79 (Prime-style Details page, smoother Fire TV, blue colour scheme).",
-    "versionCode": 81,
-    "versionName": "1.80"
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.81/streambert-v1.81.apk",
+    "changelog": "v1.81 (phone): Details page gets a Cast row and Trailer button, search is now a field at the top, See more sits next to row titles, and Because you watched shows the full title.",
+    "versionCode": 82,
+    "versionName": "1.81",
+    "targets": ["phone"]
 }
