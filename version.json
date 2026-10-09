@@ -1,7 +1,6 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.83/streambert-v1.83.apk",
-    "changelog": "v1.83 (TV): the focus outline no longer overlaps the next poster on an actor's page or See more pages, or the next channel in Live TV.",
-    "versionCode": 84,
-    "versionName": "1.83",
-    "targets": ["tv"]
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.84/streambert-v1.84.apk",
+    "changelog": "v1.84: Cast row starts with the director (a series: its creator). An actor's or director's page shows IMDb and Rotten Tomatoes scores plus the year, best Rotten Tomatoes score first, and a director's page lists the films they directed.",
+    "versionCode": 85,
+    "versionName": "1.84"
 }
