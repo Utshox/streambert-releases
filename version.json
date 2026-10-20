@@ -1,6 +1,6 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.85/streambert-v1.85.apk",
-    "changelog": "v1.85: Remotes without a menu button: hold OK in the player for a cursor (smaller, finer steps), Left/Right seek 10s, Down opens the player menu, hold OK on Continue Watching for Details or Remove. New Settings switch: Old TV compatibility fixes a black picture on some older TVs. Faster, more reliable loading.",
-    "versionCode": 86,
-    "versionName": "1.85"
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.86/streambert-v1.86.apk",
+    "changelog": "v1.86: New Music tab (search, Recently played, Made for you, genre mixes, shuffle), now-playing pill with equalizer bars on TV, Trending Anime row, recommendations only count songs you really listened to.",
+    "versionCode": 87,
+    "versionName": "1.86"
 }
