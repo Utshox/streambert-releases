@@ -1,6 +1,9 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.86/streambert-v1.86.apk",
-    "changelog": "v1.86: New Music tab (search, Recently played, Made for you, genre mixes, shuffle), now-playing pill with equalizer bars on TV, Trending Anime row, recommendations only count songs you really listened to.",
-    "versionCode": 87,
-    "versionName": "1.86"
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.87/streambert-v1.87.apk",
+    "changelog": "v1.87: Music keeps playing in the background with lock-screen and notification controls; queue, lyrics, sleep timer, crossfade, liked songs and playlists; Spotify-like song radio without repeats; search suggestions while you type; Wi-Fi/mobile data quality settings; home-screen widget; works with external equalizers.",
+    "versionCode": 88,
+    "versionName": "1.87",
+    "targets": [
+        "phone"
+    ]
 }
