@@ -1,8 +1,8 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.87/streambert-v1.87.apk",
-    "changelog": "v1.87: Music keeps playing in the background with lock-screen and notification controls; queue, lyrics, sleep timer, crossfade, liked songs and playlists; Spotify-like song radio without repeats; search suggestions while you type; Wi-Fi/mobile data quality settings; home-screen widget; works with external equalizers.",
-    "versionCode": 88,
-    "versionName": "1.87",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.88/streambert-v1.88.apk",
+    "changelog": "v1.88: Closing the app (back twice or swiping it away) now stops the music; play resumes properly after clearing the music notification; tapping the music widget or notification opens the Music tab.",
+    "versionCode": 89,
+    "versionName": "1.88",
     "targets": [
         "phone"
     ]
