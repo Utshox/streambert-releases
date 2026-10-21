@@ -1,9 +1,10 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.88/streambert-v1.88.apk",
-    "changelog": "v1.88: Closing the app (back twice or swiping it away) now stops the music; play resumes properly after clearing the music notification; tapping the music widget or notification opens the Music tab.",
-    "versionCode": 89,
-    "versionName": "1.88",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.89/streambert-v1.89.apk",
+    "changelog": "v1.89: Smarter song radio that stays in the language and mood and learns from what you finish or skip; optional anonymous 'Help improve recommendations'; music fully usable with the TV remote; TV video cursor hides after 5 s; the app remembers a source that doesn't play on your network and tries another first; less battery use during background music.",
+    "versionCode": 90,
+    "versionName": "1.89",
     "targets": [
-        "phone"
+        "phone",
+        "tv"
     ]
 }
