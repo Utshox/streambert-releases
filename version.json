@@ -1,8 +1,8 @@
 {
-    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.89/streambert-v1.89.apk",
-    "changelog": "v1.89: Smarter song radio that stays in the language and mood and learns from what you finish or skip; optional anonymous 'Help improve recommendations'; music fully usable with the TV remote; TV video cursor hides after 5 s; the app remembers a source that doesn't play on your network and tries another first; less battery use during background music.",
-    "versionCode": 90,
-    "versionName": "1.89",
+    "apkUrl": "https://github.com/Utshox/streambert-releases/releases/download/v1.90/streambert-v1.90.apk",
+    "changelog": "v1.90: Fixed the default source showing 'Open in browser' instead of playing; removed the stray cast button in the top-left of the player.",
+    "versionCode": 91,
+    "versionName": "1.90",
     "targets": [
         "phone",
         "tv"
